@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850168956193",
+    "project_id": "awsoomnotitest",
+    "storage_bucket": "awsoomnotitest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850168956193:android:723e22b5598bbb9b98aa60",
+        "android_client_info": {
+          "package_name": "com.example.awsoom_nofic_test_hragap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850168956193-tkrkfuiasnh1c74e2in4ggpn8hrlj8tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL4WPWlt9_gh6s4UIZc4ZSOvC8s027LQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850168956193-tkrkfuiasnh1c74e2in4ggpn8hrlj8tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
